@@ -1,7 +1,5 @@
 # MarsManiac
 
-![](images/Untitled design (5).png)
-
 *Link to apk* : https://drive.google.com/drive/folders/1wwhKZgdCK4ph3MZMa4P0FmwbbW_uqyP_?usp=sharing
 
 A multiplayer shooter game on wheels, designed as a project to help implement multiplayer functionality in Android.  
@@ -20,7 +18,7 @@ The game also features AI Cars to replace humans incase of shortage of players i
 ---
 >*The crosshair follows enemy cars as long as it is within the rectangular hitbox area*
 
-![](images/DynamicCursor.png)
+![](images/DynamicCursor.jpg)
 ---
 >*Health Pickups and screen effects*
 
